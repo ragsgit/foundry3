@@ -1,0 +1,7 @@
+---
+applications:
+- name: rag162
+  memory: 800M
+  instances: 1
+  services:
+   - rag162-mongodb-0155283929
