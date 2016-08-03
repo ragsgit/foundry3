@@ -1,0 +1,7 @@
+---
+applications:
+- name: ragdemo
+  memory: 800M
+  instances: 1
+  services:
+   - ragdemo-mongodb-0188165395
